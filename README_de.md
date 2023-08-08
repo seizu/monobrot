@@ -1,4 +1,4 @@
-Braindump Links [![EN](https://www.wartris.com/gfx/en.png)](https://github.com/seizu/monobrot/blob/master/README.md)[![DE](https://www.wartris.com/gfx/de.png)](https://github.com/seizu/monobrot/blob/master/README_de.md)
+Braindump Links [![English](https://www.wartris.com/gfx/eng.png)](https://github.com/seizu/monobrot/blob/master/README.md)[![Deutsch](https://www.wartris.com/gfx/deu.png)](https://github.com/seizu/monobrot/blob/master/README_de.md)
 -
 
 1. **GPS Kurzbefehl** iPhone Kurzbefehl um den Ortungsdienst schnell ein oder auszuschalten.  
